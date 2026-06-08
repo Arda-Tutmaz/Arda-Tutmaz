@@ -15,4 +15,4 @@ I am a 2nd-year Computer Engineering student currently experiencing an Erasmus+ 
 - **GIS Tools:** QGIS, CesiumJS, OpenLayers
 
 ## 📬 Connect with Me
-- [LinkedIn](www.linkedin.com/in/arda-tutmaz-b1b428324)
+- [LinkedIn](https://www.linkedin.com/in/arda-tutmaz-b1b428324/)
